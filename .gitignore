@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+myvenv/
+venv/
+env/
+.venv/
+
+# Byte-compiled / caches
+.pytest_cache/
+.cache/
+
+# Packages / distributions
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Model / data / binaries (use Git LFS for models instead of committing large files)
+*.pkl
+*.h5
+*.joblib
+*.pt
+*.onnx
+*.tflite
+
+# Data files / datasets
+*.csv
+*.zip
+*.tar.gz
+/data/
+datasets/
+kaggle_dataset/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.nbconvert.ipynb
+*.ipynb
+
+# Environment / secrets
+.env
+.env.*
+
+# IDEs / editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.sqlite3
+*.db
+*.bak
