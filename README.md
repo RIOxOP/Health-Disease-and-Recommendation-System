@@ -51,7 +51,7 @@ To run the Disease Prediction and Medical Recommendation System:
    http://localhost:5000
 
 ## Made by 
-Subrata Dhibar
+Supriyo Dawn
 
 ## Project Files Overview
 
